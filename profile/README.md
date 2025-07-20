@@ -3,7 +3,7 @@
 </H1>
 
 <p align="center">
-  Owner: Nionim (DeltaCion | DeltaTaumaCion | Citory_)
+  Owner: Nionim (DeltaCion | DeltaTaumaCion | C!tory¿)
 </p>
 
 ---
