@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Delta-Factory/.github/refs/heads/main/profile/img/Project_Void.png" alt="Project~Void background">
+</p>
+
 <H1 align="center">
   Delta`s~Factory
 </H1>
