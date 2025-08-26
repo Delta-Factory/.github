@@ -17,6 +17,7 @@
   <br>	<a href="https://github.com/Delta-Factory/Decadence">Decadence</a> - Minecraft server core (Based on Minestom)
   <br>	<a href="https://github.com/Delta-Factory/Topaz_Lobby">Topaz Lobby</a> - Plugins (Based on Decadence) for lobby on <a href="https://github.com/Delta-Factory/Topaz_Lobby">TheVoid</a>
   <br>	<a href="https://github.com/Delta-Factory/NuclearFlagSelector-For-MC">NuclearFlagSelector</a> - Flag selector for minecraft hostings without editable startup string
+  <br>	<a href="https://github.com/Delta-Factory/MinecraftServerPingerLib">MinecraftServerPingerLib</a> - Minecraft server resolver lib wrotted for and on java
 </p>
 
 ---
